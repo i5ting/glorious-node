@@ -18,7 +18,7 @@
 - yarn一周内1w+ star的明星项目
 - npm scripts更广泛，举例ghooks
 - binary命令行简单强大
-- scaffold
+- scaffold脚手架
 - 私服
 - private模块
 - nan：使用c/c++扩展
@@ -51,12 +51,13 @@
 - koa的中间件3种写法
 - koa常见模块
   - router
-  - nunjucks
+  - nunjucks template
   - session
   - cache
 - koa与db
 - koa与微服务
 - koa与rest
+- 部署
 
 ## 调试与测试
 
