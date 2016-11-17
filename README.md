@@ -1,6 +1,6 @@
 # 更了不起的Node.js
 
-- 麒麟会 GITC 2016 演讲
+- 麒麟会 [GITC 2016 演讲](http://www.thegitc.com/2016#guest)
 
 ## 你离不开Node
 
